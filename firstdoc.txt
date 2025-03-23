@@ -1,0 +1,4 @@
+date:2025/03/23 23:00
+author:fengdao,alone
+thing:buy a autocar
+money:2399 yuan
